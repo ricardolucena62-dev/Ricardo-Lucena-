@@ -1,13 +1,11 @@
 # RicardoLucena
 
 ```md id="j8l3pz"
-# 👨‍💻 Ricardo Lucena de Souza
+# 👨‍💻 Ricardo Lucena 
 
 ## 🚀 Sobre mim
 
-Sou estudante de Ciência da Computação, atualmente no 4° período da faculdade, apaixonado por tecnologia e desenvolvimento mobile.
-
-Estou em constante aprendizado, buscando evoluir minhas habilidades em programação e desenvolvimento de aplicativos Android.
+Sou estudante de Ciência da Computação, atualmente no 4° período da faculdade e estou me profissionalizando na area de desenvolvimento mobile.Estou em constante aprendizado, buscando evoluir minhas habilidades em programação e desenvolvimento de aplicativos Android.
 
 ## 📚 Atualmente estudando
 
@@ -27,8 +25,6 @@ Meu objetivo é me tornar um desenvolvedor Android profissional, criando aplica�
 ## 📱 Projetos
 
 Aqui no meu GitHub você encontrará projetos desenvolvidos durante meus estudos e evolução na programação.
-
-
 
 ## 📫 Contato
 
